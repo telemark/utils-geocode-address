@@ -1,0 +1,38 @@
+{
+  "name": "utils-geocode-address",
+  "version": "1.0.0",
+  "description": "Parse csv with addresses and geocode them",
+  "author": {
+    "name": "Geir Gåsodden",
+    "email": "geir.gasodden@pythonia.no",
+    "url": "https://github.com/zrrrzzt"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.12.0"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec test/*.js"
+  },
+  "keywords": [
+    "Telemark fylkeskommune",
+    "tfk",
+    "API",
+    "hapi"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/telemark/utils-geocode-adress.git"
+  },
+  "bugs": {
+    "url": "http://github.com/zrrrzzt/utils-geocode-address/issues"
+  },
+  "devDependencies": {
+    "jscs": "^1.11.3",
+    "mocha": "^2.2.0"
+  },
+  "dependencies": {
+    "csv": "^0.4.1",
+    "wreck": "^5.3.0"
+  }
+}
