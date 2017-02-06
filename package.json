@@ -28,11 +28,11 @@
     "url": "http://github.com/zrrrzzt/utils-geocode-address/issues"
   },
   "devDependencies": {
-    "jscs": "^1.11.3",
-    "mocha": "^2.2.0"
+    "jscs": "^3.0.7",
+    "mocha": "^3.2.0"
   },
   "dependencies": {
-    "csv": "^0.4.1",
-    "wreck": "^5.3.0"
+    "csv": "^1.1.1",
+    "wreck": "^10.0.0"
   }
 }
