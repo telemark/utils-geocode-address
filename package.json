@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "jscs": "1.13.1",
-    "mocha": "2.5.3"
+    "mocha": "5.2.0"
   },
   "dependencies": {
     "csv": "^0.4.1",
