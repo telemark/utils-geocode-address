@@ -28,8 +28,8 @@
     "url": "http://github.com/zrrrzzt/utils-geocode-address/issues"
   },
   "devDependencies": {
-    "jscs": "^1.11.3",
-    "mocha": "^2.2.0"
+    "jscs": "1.13.1",
+    "mocha": "2.5.3"
   },
   "dependencies": {
     "csv": "^0.4.1",
